@@ -1,0 +1,7 @@
+@tailwind components;
+
+@layer components {
+  .max-width {
+    @apply max-w-7xl mx-auto px-4;
+  }
+}
